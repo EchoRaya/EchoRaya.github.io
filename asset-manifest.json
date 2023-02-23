@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.65356122.css",
-    "main.js": "/static/js/main.9c3eebe6.js",
+    "main.css": "/static/css/main.255a0ee0.css",
+    "main.js": "/static/js/main.cc373e83.js",
     "static/js/522.d7f14931.chunk.js": "/static/js/522.d7f14931.chunk.js",
-    "static/media/1.jpg": "/static/media/1.a2f1a48330a99ab50587.jpg",
-    "static/media/2.jpg": "/static/media/2.f18fd3b9dff8ff580fcc.jpg",
-    "static/media/3.jpg": "/static/media/3.b94e69fbc4b801a03046.jpg",
-    "static/media/background.jpg": "/static/media/background.28109b1ab5ab8a478d99.jpg",
+    "static/media/yoimiya.jpg": "/static/media/yoimiya.97be1545245cf5fea43d.jpg",
+    "static/media/nahida.jpg": "/static/media/nahida.aba8f3095a532fd12c3b.jpg",
+    "static/media/hutao.jpg": "/static/media/hutao.28109b1ab5ab8a478d99.jpg",
+    "static/media/keqing.jpg": "/static/media/keqing.88ff15c42e256ac266ba.jpg",
+    "static/media/kokomi.jpg": "/static/media/kokomi.1deb7c66989e935af37b.jpg",
+    "static/media/ayaka.jpg": "/static/media/ayaka.4e251661a25edc77c429.jpg",
+    "static/media/beelzebul.jpg": "/static/media/beelzebul.cdc0914889e793c77056.jpg",
+    "static/media/ganyu.jpg": "/static/media/ganyu.c380c65a845b3da0e3ef.jpg",
     "static/media/loading.png": "/static/media/loading.acd2b2ba2cae023c8c95.png",
     "static/media/GuDianMingChaoTi.ttf": "/static/media/GuDianMingChaoTi.0715b8ad2570a546f0dd.ttf",
     "static/media/snow.svg": "/static/media/snow.a3422e9979b516ac0e53af48b047f3bc.svg",
@@ -43,7 +47,7 @@
     "static/media/send.svg": "/static/media/send.9bd10a1c66230ebbce69b96feff1c533.svg"
   },
   "entrypoints": [
-    "static/css/main.65356122.css",
-    "static/js/main.9c3eebe6.js"
+    "static/css/main.255a0ee0.css",
+    "static/js/main.cc373e83.js"
   ]
 }
