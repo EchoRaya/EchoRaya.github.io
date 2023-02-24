@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d91ac80.css",
-    "main.js": "/static/js/main.39da21d4.js",
+    "main.css": "/static/css/main.eea17932.css",
+    "main.js": "/static/js/main.c81b5640.js",
     "static/js/522.d7f14931.chunk.js": "/static/js/522.d7f14931.chunk.js",
     "static/media/yoimiya.jpg": "/static/media/yoimiya.97be1545245cf5fea43d.jpg",
     "static/media/nahida.jpg": "/static/media/nahida.aba8f3095a532fd12c3b.jpg",
@@ -47,7 +47,7 @@
     "static/media/send.svg": "/static/media/send.9bd10a1c66230ebbce69b96feff1c533.svg"
   },
   "entrypoints": [
-    "static/css/main.9d91ac80.css",
-    "static/js/main.39da21d4.js"
+    "static/css/main.eea17932.css",
+    "static/js/main.c81b5640.js"
   ]
 }
